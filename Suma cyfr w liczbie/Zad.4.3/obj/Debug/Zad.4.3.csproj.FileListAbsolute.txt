@@ -1,0 +1,7 @@
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.4.3\Zad.4.3\bin\Debug\Zad.4.3.exe.config
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.4.3\Zad.4.3\bin\Debug\Zad.4.3.exe
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.4.3\Zad.4.3\bin\Debug\Zad.4.3.pdb
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.4.3\Zad.4.3\obj\Debug\Zad.4.3.csprojResolveAssemblyReference.cache
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.4.3\Zad.4.3\obj\Debug\Zad.4.3.csproj.CoreCompileInputs.cache
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.4.3\Zad.4.3\obj\Debug\Zad.4.3.exe
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.4.3\Zad.4.3\obj\Debug\Zad.4.3.pdb
